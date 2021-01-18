@@ -1,0 +1,1 @@
+used to build docker container image with openssh-client installed
